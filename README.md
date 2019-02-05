@@ -23,7 +23,7 @@ Note that the `title` property is what will be displayed as logo.
 Finally execute `jekyll serve --watch` and head to [localhost:4000](http://127.0.0.1:4000) to see the result.
 
 # Using categories
-Categories are little bit tricky. Please make sure to do the following for each category:
+YYYYYYYY are little bit tricky. Please make sure to do the following for each category:
 
 - Create a file within `categories` folder with the name of your category
 For example let's say that we have a category called `An Awesome Category` you will need to add an `an-awesome-category.html` file with this content:
